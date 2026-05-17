@@ -1,2 +1,4 @@
 Cached Theme.pak
 node_modules
+dist/
+*.zip
